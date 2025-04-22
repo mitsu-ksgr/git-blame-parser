@@ -1,6 +1,8 @@
 git-blame-parser
 ================
 
+[![Badge Workflow](https://github.com/mitsu-ksgr/git-blame-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/mitsu-ksgr/git-blame-parser/actions)
+
 Parses the output of `git blame` command in
 [the porcelain format](https://git-scm.com/docs/git-blame#_the_porcelain_format)
 into a struct.
@@ -10,20 +12,20 @@ the output must be generated using the `--line-porcelain` option.
 ## Usage
 Run the following Cargo command in your project directory:
 
-```
+```sh
 % cargo add git-blame-parser
 ```
 
 Or add the following line to your `Cargo.toml`:
 
-```
+```toml
 [dependencies]
 git-blame-parser = "0.1.0"
 ```
 
 Then:
 
-```
+```rust
 let output = std::process::Command::new("git")
     .args(["blame", "--line-porcelain"])
     .arg(filepath)
