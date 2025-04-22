@@ -20,7 +20,7 @@ Or add the following line to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-git-blame-parser = "0.1.0"
+git-blame-parser = "0.1.1"
 ```
 
 Then:
