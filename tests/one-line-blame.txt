@@ -1,0 +1,13 @@
+6cebf082a694d9dec6c1928531fcb649791885ec 1 1 1
+author mitsu-ksgr
+author-mail <mitsu-ksgr@users.noreply.github.com>
+author-time 1745338497
+author-tz +0900
+committer GitHub
+committer-mail <noreply@github.com>
+committer-time 1745338497
+committer-tz +0900
+summary Initial commit
+boundary
+filename README.md
+	# git-blame-parser

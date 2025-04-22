@@ -1,0 +1,91 @@
+0000000000000000000000000000000000000000 1 1 7
+author Not Committed Yet
+author-mail <not.committed.yet>
+author-time 1745338737
+author-tz +0900
+committer Not Committed Yet
+committer-mail <not.committed.yet>
+committer-time 1745338737
+committer-tz +0900
+summary Version of README.md from README.md
+previous 6cebf082a694d9dec6c1928531fcb649791885ec README.md
+filename README.md
+	git-blame-parser
+0000000000000000000000000000000000000000 2 2
+author Not Committed Yet
+author-mail <not.committed.yet>
+author-time 1745338737
+author-tz +0900
+committer Not Committed Yet
+committer-mail <not.committed.yet>
+committer-time 1745338737
+committer-tz +0900
+summary Version of README.md from README.md
+previous 6cebf082a694d9dec6c1928531fcb649791885ec README.md
+filename README.md
+	================
+0000000000000000000000000000000000000000 3 3
+author Not Committed Yet
+author-mail <not.committed.yet>
+author-time 1745338737
+author-tz +0900
+committer Not Committed Yet
+committer-mail <not.committed.yet>
+committer-time 1745338737
+committer-tz +0900
+summary Version of README.md from README.md
+previous 6cebf082a694d9dec6c1928531fcb649791885ec README.md
+filename README.md
+	
+0000000000000000000000000000000000000000 4 4
+author Not Committed Yet
+author-mail <not.committed.yet>
+author-time 1745338737
+author-tz +0900
+committer Not Committed Yet
+committer-mail <not.committed.yet>
+committer-time 1745338737
+committer-tz +0900
+summary Version of README.md from README.md
+previous 6cebf082a694d9dec6c1928531fcb649791885ec README.md
+filename README.md
+	Parse
+0000000000000000000000000000000000000000 5 5
+author Not Committed Yet
+author-mail <not.committed.yet>
+author-time 1745338737
+author-tz +0900
+committer Not Committed Yet
+committer-mail <not.committed.yet>
+committer-time 1745338737
+committer-tz +0900
+summary Version of README.md from README.md
+previous 6cebf082a694d9dec6c1928531fcb649791885ec README.md
+filename README.md
+	[the porcelain](https://git-scm.com/docs/git-blame#_the_porcelain_format)
+0000000000000000000000000000000000000000 6 6
+author Not Committed Yet
+author-mail <not.committed.yet>
+author-time 1745338737
+author-tz +0900
+committer Not Committed Yet
+committer-mail <not.committed.yet>
+committer-time 1745338737
+committer-tz +0900
+summary Version of README.md from README.md
+previous 6cebf082a694d9dec6c1928531fcb649791885ec README.md
+filename README.md
+	formatted git blame output.
+0000000000000000000000000000000000000000 7 7
+author Not Committed Yet
+author-mail <not.committed.yet>
+author-time 1745338737
+author-tz +0900
+committer Not Committed Yet
+committer-mail <not.committed.yet>
+committer-time 1745338737
+committer-tz +0900
+summary Version of README.md from README.md
+previous 6cebf082a694d9dec6c1928531fcb649791885ec README.md
+filename README.md
+	

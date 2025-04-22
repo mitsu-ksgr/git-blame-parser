@@ -1,0 +1,559 @@
+c9a79e91e05355fc42ec519593806466c2f66de0 1 1 4
+author mitsu-ksgr
+author-mail <mitsu-ksgr@users.noreply.github.com>
+author-time 1744981061
+author-tz +0900
+committer GitHub
+committer-mail <noreply@github.com>
+committer-time 1744981061
+committer-tz +0900
+summary Update README.md
+previous 5d31b11bd146562bb1b472e1334233a6a8ef66e5 README.md
+filename README.md
+	<div align="center">
+c9a79e91e05355fc42ec519593806466c2f66de0 2 2
+author mitsu-ksgr
+author-mail <mitsu-ksgr@users.noreply.github.com>
+author-time 1744981061
+author-tz +0900
+committer GitHub
+committer-mail <noreply@github.com>
+committer-time 1744981061
+committer-tz +0900
+summary Update README.md
+previous 5d31b11bd146562bb1b472e1334233a6a8ef66e5 README.md
+filename README.md
+	  <img src="./crates/bin/gui/icons/128x128.png" alt="dirback logo" width="128" />
+c9a79e91e05355fc42ec519593806466c2f66de0 3 3
+author mitsu-ksgr
+author-mail <mitsu-ksgr@users.noreply.github.com>
+author-time 1744981061
+author-tz +0900
+committer GitHub
+committer-mail <noreply@github.com>
+committer-time 1744981061
+committer-tz +0900
+summary Update README.md
+previous 5d31b11bd146562bb1b472e1334233a6a8ef66e5 README.md
+filename README.md
+	  <h1>Dirback</h1>
+c9a79e91e05355fc42ec519593806466c2f66de0 4 4
+author mitsu-ksgr
+author-mail <mitsu-ksgr@users.noreply.github.com>
+author-time 1744981061
+author-tz +0900
+committer GitHub
+committer-mail <noreply@github.com>
+committer-time 1744981061
+committer-tz +0900
+summary Update README.md
+previous 5d31b11bd146562bb1b472e1334233a6a8ef66e5 README.md
+filename README.md
+	  <h3>Simple directory-based backup tool.</h3>
+0ca9e4dabeeee882c83d8170ad4c6a8d8046b517 3 5 1
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1740676606
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1740676606
+committer-tz +0900
+summary Add cargo.toml for workspace
+previous 845fa534b3c6876aa68ef8b5f7d04c6d89f6a4c2 README.md
+filename README.md
+	
+1548ab1b6c61dff9cb3b58d314df43edb44bd741 6 6 1
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745039902
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745039902
+committer-tz +0900
+summary tweaks
+previous a3ea4a1627f1787a0eac128599a7a45780bbdc76 README.md
+filename README.md
+	  ![Badge Workflow](https://github.com/mitsu-ksgr/dirback/actions/workflows/release.yml/badge.svg)
+c9a79e91e05355fc42ec519593806466c2f66de0 6 7 3
+author mitsu-ksgr
+author-mail <mitsu-ksgr@users.noreply.github.com>
+author-time 1744981061
+author-tz +0900
+committer GitHub
+committer-mail <noreply@github.com>
+committer-time 1744981061
+committer-tz +0900
+summary Update README.md
+previous 5d31b11bd146562bb1b472e1334233a6a8ef66e5 README.md
+filename README.md
+	  ![Badge Workflow](https://github.com/mitsu-ksgr/dirback/actions/workflows/rust.yml/badge.svg)
+c9a79e91e05355fc42ec519593806466c2f66de0 7 8
+author mitsu-ksgr
+author-mail <mitsu-ksgr@users.noreply.github.com>
+author-time 1744981061
+author-tz +0900
+committer GitHub
+committer-mail <noreply@github.com>
+committer-time 1744981061
+committer-tz +0900
+summary Update README.md
+previous 5d31b11bd146562bb1b472e1334233a6a8ef66e5 README.md
+filename README.md
+	  ![Badge Workflow](https://github.com/mitsu-ksgr/dirback/actions/workflows/gui-frontend.yml/badge.svg)
+c9a79e91e05355fc42ec519593806466c2f66de0 8 9
+author mitsu-ksgr
+author-mail <mitsu-ksgr@users.noreply.github.com>
+author-time 1744981061
+author-tz +0900
+committer GitHub
+committer-mail <noreply@github.com>
+committer-time 1744981061
+committer-tz +0900
+summary Update README.md
+previous 5d31b11bd146562bb1b472e1334233a6a8ef66e5 README.md
+filename README.md
+	</div>
+87e58c7b9a7d0bc87538630e41139f9c2f364333 5 10 1
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1744150124
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1744150124
+committer-tz +0900
+summary Update README.md
+previous 7d5f166c12cda4ac10715b799dc85bee960ef2ec README.md
+filename README.md
+	
+87e58c7b9a7d0bc87538630e41139f9c2f364333 7 11 1
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1744150124
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1744150124
+committer-tz +0900
+summary Update README.md
+previous 7d5f166c12cda4ac10715b799dc85bee960ef2ec README.md
+filename README.md
+	
+c9a79e91e05355fc42ec519593806466c2f66de0 11 12 1
+author mitsu-ksgr
+author-mail <mitsu-ksgr@users.noreply.github.com>
+author-time 1744981061
+author-tz +0900
+committer GitHub
+committer-mail <noreply@github.com>
+committer-time 1744981061
+committer-tz +0900
+summary Update README.md
+previous 5d31b11bd146562bb1b472e1334233a6a8ef66e5 README.md
+filename README.md
+	Dirback is a simple directory-based backup tool.
+87e58c7b9a7d0bc87538630e41139f9c2f364333 10 13 1
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1744150124
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1744150124
+committer-tz +0900
+summary Update README.md
+previous 7d5f166c12cda4ac10715b799dc85bee960ef2ec README.md
+filename README.md
+	
+c9a79e91e05355fc42ec519593806466c2f66de0 13 14 2
+author mitsu-ksgr
+author-mail <mitsu-ksgr@users.noreply.github.com>
+author-time 1744981061
+author-tz +0900
+committer GitHub
+committer-mail <noreply@github.com>
+committer-time 1744981061
+committer-tz +0900
+summary Update README.md
+previous 5d31b11bd146562bb1b472e1334233a6a8ef66e5 README.md
+filename README.md
+	Back up the target directory as a `tar.gz` file.
+c9a79e91e05355fc42ec519593806466c2f66de0 14 15
+author mitsu-ksgr
+author-mail <mitsu-ksgr@users.noreply.github.com>
+author-time 1744981061
+author-tz +0900
+committer GitHub
+committer-mail <noreply@github.com>
+committer-time 1744981061
+committer-tz +0900
+summary Update README.md
+previous 5d31b11bd146562bb1b472e1334233a6a8ef66e5 README.md
+filename README.md
+	it also allows for easy restoration from the backup.
+87e58c7b9a7d0bc87538630e41139f9c2f364333 11 16 1
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1744150124
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1744150124
+committer-tz +0900
+summary Update README.md
+previous 7d5f166c12cda4ac10715b799dc85bee960ef2ec README.md
+filename README.md
+	
+018b9ecc91245033b58a5df9bf6c085844668d3c 17 17 4
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745044224
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745044224
+committer-tz +0900
+summary Update README.md
+previous 1548ab1b6c61dff9cb3b58d314df43edb44bd741 README.md
+filename README.md
+	
+018b9ecc91245033b58a5df9bf6c085844668d3c 18 18
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745044224
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745044224
+committer-tz +0900
+summary Update README.md
+previous 1548ab1b6c61dff9cb3b58d314df43edb44bd741 README.md
+filename README.md
+	## Apps
+018b9ecc91245033b58a5df9bf6c085844668d3c 19 19
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745044224
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745044224
+committer-tz +0900
+summary Update README.md
+previous 1548ab1b6c61dff9cb3b58d314df43edb44bd741 README.md
+filename README.md
+	Dirback provides the following applications:
+018b9ecc91245033b58a5df9bf6c085844668d3c 20 20
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745044224
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745044224
+committer-tz +0900
+summary Update README.md
+previous 1548ab1b6c61dff9cb3b58d314df43edb44bd741 README.md
+filename README.md
+	
+87e58c7b9a7d0bc87538630e41139f9c2f364333 13 21 2
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1744150124
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1744150124
+committer-tz +0900
+summary Update README.md
+previous 7d5f166c12cda4ac10715b799dc85bee960ef2ec README.md
+filename README.md
+	- [Command line tool](./crates/bin/cmd/README.md)
+87e58c7b9a7d0bc87538630e41139f9c2f364333 14 22
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1744150124
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1744150124
+committer-tz +0900
+summary Update README.md
+previous 7d5f166c12cda4ac10715b799dc85bee960ef2ec README.md
+filename README.md
+	- [TUI](./crates/bin/tui/README.md)
+68ecbfd58b63990ec70db6ffe5558d67aafb14da 15 23 1
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1744234602
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1744234602
+committer-tz +0900
+summary gui: create tauri app with docker
+previous 726a40903dcf4c5bce57ebce54ed175cdd4a1e74 README.md
+filename README.md
+	- [GUI](./crates/bin/gui/README.md)
+87e58c7b9a7d0bc87538630e41139f9c2f364333 15 24 1
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1744150124
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1744150124
+committer-tz +0900
+summary Update README.md
+previous 7d5f166c12cda4ac10715b799dc85bee960ef2ec README.md
+filename README.md
+	
+0ec2b5332219feeeadb1a5ff64cfcfe3bb6b1872 25 25 2
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745057907
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745057907
+committer-tz +0900
+summary Update README
+previous 018b9ecc91245033b58a5df9bf6c085844668d3c README.md
+filename README.md
+	The latest version can be downloaded from [the release page](https://github.com/mitsu-ksgr/dirback/releases).
+0ec2b5332219feeeadb1a5ff64cfcfe3bb6b1872 26 26
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745057907
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745057907
+committer-tz +0900
+summary Update README
+previous 018b9ecc91245033b58a5df9bf6c085844668d3c README.md
+filename README.md
+	
+018b9ecc91245033b58a5df9bf6c085844668d3c 25 27 5
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745044224
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745044224
+committer-tz +0900
+summary Update README.md
+previous 1548ab1b6c61dff9cb3b58d314df43edb44bd741 README.md
+filename README.md
+	### Supported platforms
+018b9ecc91245033b58a5df9bf6c085844668d3c 26 28
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745044224
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745044224
+committer-tz +0900
+summary Update README.md
+previous 1548ab1b6c61dff9cb3b58d314df43edb44bd741 README.md
+filename README.md
+	- [x] Linux
+018b9ecc91245033b58a5df9bf6c085844668d3c 27 29
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745044224
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745044224
+committer-tz +0900
+summary Update README.md
+previous 1548ab1b6c61dff9cb3b58d314df43edb44bd741 README.md
+filename README.md
+	- [x] Windows
+018b9ecc91245033b58a5df9bf6c085844668d3c 28 30
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745044224
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745044224
+committer-tz +0900
+summary Update README.md
+previous 1548ab1b6c61dff9cb3b58d314df43edb44bd741 README.md
+filename README.md
+	- [ ] macOS
+018b9ecc91245033b58a5df9bf6c085844668d3c 29 31
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745044224
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745044224
+committer-tz +0900
+summary Update README.md
+previous 1548ab1b6c61dff9cb3b58d314df43edb44bd741 README.md
+filename README.md
+	
+87e58c7b9a7d0bc87538630e41139f9c2f364333 16 32 2
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1744150124
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1744150124
+committer-tz +0900
+summary Update README.md
+previous 7d5f166c12cda4ac10715b799dc85bee960ef2ec README.md
+filename README.md
+	
+87e58c7b9a7d0bc87538630e41139f9c2f364333 17 33
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1744150124
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1744150124
+committer-tz +0900
+summary Update README.md
+previous 7d5f166c12cda4ac10715b799dc85bee960ef2ec README.md
+filename README.md
+	## Application data path
+018b9ecc91245033b58a5df9bf6c085844668d3c 32 34 2
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745044224
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745044224
+committer-tz +0900
+summary Update README.md
+previous 1548ab1b6c61dff9cb3b58d314df43edb44bd741 README.md
+filename README.md
+	Backup files will be stored in the following path:
+018b9ecc91245033b58a5df9bf6c085844668d3c 33 35
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745044224
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745044224
+committer-tz +0900
+summary Update README.md
+previous 1548ab1b6c61dff9cb3b58d314df43edb44bd741 README.md
+filename README.md
+	
+87e58c7b9a7d0bc87538630e41139f9c2f364333 18 36 1
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1744150124
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1744150124
+committer-tz +0900
+summary Update README.md
+previous 7d5f166c12cda4ac10715b799dc85bee960ef2ec README.md
+filename README.md
+	- Linux: `~/.local/share/dirback`
+018b9ecc91245033b58a5df9bf6c085844668d3c 35 37 3
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745044224
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745044224
+committer-tz +0900
+summary Update README.md
+previous 1548ab1b6c61dff9cb3b58d314df43edb44bd741 README.md
+filename README.md
+	- Windows: `%APPDATA%\dirback`
+018b9ecc91245033b58a5df9bf6c085844668d3c 36 38
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745044224
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745044224
+committer-tz +0900
+summary Update README.md
+previous 1548ab1b6c61dff9cb3b58d314df43edb44bd741 README.md
+filename README.md
+	  - `C:\Users\USER_NAME\AppData\Roaming\dirback`
+018b9ecc91245033b58a5df9bf6c085844668d3c 37 39
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745044224
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745044224
+committer-tz +0900
+summary Update README.md
+previous 1548ab1b6c61dff9cb3b58d314df43edb44bd741 README.md
+filename README.md
+	
+d6a7ff17c7e21bbf9dc66af4849287ccad1d609b 23 40 1
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1740868568
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1740868568
+committer-tz +0900
+summary wip: target
+previous f9f0f919ce976373a77a944dbfb58a829760b3b4 README.md
+filename README.md
+	
+018b9ecc91245033b58a5df9bf6c085844668d3c 39 41 2
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745044224
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745044224
+committer-tz +0900
+summary Update README.md
+previous 1548ab1b6c61dff9cb3b58d314df43edb44bd741 README.md
+filename README.md
+	## License
+018b9ecc91245033b58a5df9bf6c085844668d3c 40 42
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1745044224
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1745044224
+committer-tz +0900
+summary Update README.md
+previous 1548ab1b6c61dff9cb3b58d314df43edb44bd741 README.md
+filename README.md
+	[MIT](./LICENSE)
+6bc73654c1baa11b80f2bbdc0a0c380a986a53c9 33 43 1
+author mitsu-ksgr
+author-mail <k.sgr.mitsu.g@example.com>
+author-time 1741961571
+author-tz +0900
+committer mitsu-ksgr
+committer-mail <k.sgr.mitsu.g@example.com>
+committer-time 1741961571
+committer-tz +0900
+summary add serde
+previous 6f883e426c1f137a3669280a34defed6c3a8f7d5 README.md
+filename README.md
+	
