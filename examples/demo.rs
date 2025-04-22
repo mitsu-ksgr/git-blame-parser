@@ -46,6 +46,6 @@ fn main() {
         );
         println!("summary: {}", blame.summary);
         println!("content: `{}`", blame.content);
-        println!("");
+        println!();
     }
 }

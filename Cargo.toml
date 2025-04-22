@@ -3,9 +3,8 @@ name = "git-blame-parser"
 description = "Parses the git blame porcelain format into a struct."
 version = "0.1.0"
 edition = "2024"
-author = ["mitsu-ksgr"]
+authors = ["mitsu-ksgr"]
 repository = "https://github.com/mitsu-ksgr/git-blame-parser"
 license = "MIT"
-license-file = "LICENSE"
 
 [dependencies]

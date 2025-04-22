@@ -84,7 +84,7 @@ pub fn parse_one_blame(porcelain: &[&str]) -> Result<Blame, ParseError> {
     let mut blame = Blame::default();
 
     // Parse header
-    if let Some(header) = porcelain.get(0) {
+    if let Some(header) = porcelain.first() {
         let parts: Vec<&str> = header.split_whitespace().collect();
         blame.commit = parts[0].to_string();
 
@@ -145,11 +145,11 @@ pub fn parse_one_blame(porcelain: &[&str]) -> Result<Blame, ParseError> {
 /// Parses the output of `git blame` command in the porcelain format.
 /// the output must be generated using the `--line-porcelain` option.
 pub fn parse(porcelain: &str) -> Result<Vec<Blame>, ParseError> {
-    let mut lines = porcelain.lines();
+    let lines = porcelain.lines();
     let mut blames = Vec::new();
 
     let mut blob: Vec<&str> = Vec::new();
-    while let Some(line) = lines.next() {
+    for line in lines {
         blob.push(line);
 
         // end of one blame output.
@@ -186,7 +186,7 @@ mod tests {
         assert_eq!(first.commit, "c9a79e91e05355fc42ec519593806466c2f66de0");
         assert_eq!(first.original_line_no, 1);
         assert_eq!(first.final_line_no, 1);
-        assert_eq!(first.boundary, false);
+        assert!(!first.boundary);
 
         assert_eq!(first.filename, "README.md");
         assert_eq!(first.summary, "Update README.md");
@@ -226,7 +226,7 @@ mod tests {
         assert_eq!(first.commit, "6cebf082a694d9dec6c1928531fcb649791885ec");
         assert_eq!(first.original_line_no, 1);
         assert_eq!(first.final_line_no, 1);
-        assert_eq!(first.boundary, true);
+        assert!(first.boundary);
         assert_eq!(first.summary, "Initial commit");
         assert_eq!(first.content, "# git-blame-parser");
     }
@@ -250,9 +250,10 @@ mod tests {
 
     #[test]
     fn test_shor_commit() {
-        let mut blame = Blame::default();
-        blame.commit = String::from("abcdefghijklmnopqrstuvwxyz1234567890abcd");
-
+        let blame = Blame {
+            commit: String::from("abcdefghijklmnopqrstuvwxyz1234567890abcd"),
+            ..Default::default()
+        };
         assert_eq!(blame.short_commit(), "abcdefg");
     }
 }
