@@ -57,6 +57,7 @@ if output.status.success() {
 }
 ```
 
+See also [examples](./examples/).
 
 ## License
 [MIT](./LICENSE)
